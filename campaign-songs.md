@@ -20,3 +20,7 @@
 * The Creator Has a Master Plan (Pharoah Sanders/Leon Thomas)
   * https://www.youtube.com/watch?v=ViweO33oo2Y 
   * https://genius.com/Pharoah-sanders-the-creator-has-a-master-plan-lyrics
+ 
+* Born in the USA (Bruce Springsteen)
+  * https://www.youtube.com/watch?v=9YNufvgPP20
+  * https://genius.com/Bruce-springsteen-born-in-the-usa-lyrics
