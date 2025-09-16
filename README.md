@@ -19,7 +19,7 @@ House of Representatives IL-09
   * 51 signatures (+18)
 * 2025-09-15
   * mailing FEC Form 2 Statement of Candidacy via USPS to Federal Election Commission 1050 First Street, NE Washington, DC 20463
-  * 67 singatures (+16) 
+  * 80 singatures (+29) 
 
 # Contact Information
 
