@@ -1,5 +1,8 @@
 # Campaign songs
 
+* The Beautiful American (Duke Ellington & Louis Armstrong)
+  * https://www.youtube.com/watch?v=N7jLfhQD-i8 
+
 * Brother can you spare a dime? (Bing Crosby)
   * https://genius.com/Bing-crosby-brother-can-you-spare-a-dime-lyrics
   * https://www.youtube.com/watch?v=0I8-CbJYGMA&t=1
