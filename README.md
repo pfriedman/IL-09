@@ -19,7 +19,18 @@ House of Representatives IL-09
   * 51 signatures (+18)
 * 2025-09-15
   * mailing FEC Form 2 Statement of Candidacy via USPS to Federal Election Commission 1050 First Street, NE Washington, DC 20463
-  * 80 singatures (+29) 
+  * 80 signatures (+29)
+* 2025-09-17
+  * Notarized 77 signatures (3 were on another paper)
+  * Attempted to open bank account for campaign - bank accountant needed to do research
+  * Open Mic at Flaco's Tacos - Thorndale
+* 2025-09-18
+  * 50th Ward Job Fair
+  * 89 notarized signatures
+  * Open mic at Macushla Brewing Co. - Glenview
+  * 101 signatures
+* 2025-09-19
+  * FEC received my Form 2 Statement of Candidacy [2] at 09:56a ET
 
 # Contact Information
 
@@ -31,4 +42,4 @@ House of Representatives IL-09
 
 [1] EIN: 39-4319221 (a.k.a. FEC Candidate Identification Number)
 
-[2] FEC Filing software is Windows only ;-> I only have access to UNIX based Operating Systems - I am not going to install FECFile on the computers at the Library
+[2] FEC Filing software is Windows only ;-> I only have access to *NIX based Operating Systems
