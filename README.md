@@ -28,9 +28,11 @@ House of Representatives IL-09
   * 50th Ward Job Fair
   * 89 notarized signatures
   * Open mic at Macushla Brewing Co. - Glenview
-  * 101 signatures
+  * 101 signatures (+21)
 * 2025-09-19
   * FEC received my Form 2 Statement of Candidacy [2] at 09:56a ET
+* 2025-09-20
+  * 155 signatures (+54)   
 
 # Contact Information
 
