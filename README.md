@@ -23,21 +23,20 @@ House of Representatives IL-09
 * 2025-09-17
   * Notarized 77 signatures (3 were on another paper)
   * Attempted to open bank account for campaign - bank accountant needed to do research
-  * Open Mic at Flaco's Tacos - Thorndale
 * 2025-09-18
   * 50th Ward Job Fair
   * 89 notarized signatures
-  * Open mic at Macushla Brewing Co. - Glenview
   * 101 signatures (+21)
 * 2025-09-19
   * FEC received my Form 2 Statement of Candidacy [2] at 09:56a ET
 * 2025-09-20
-  * 155 signatures (+54)   
+  * Evanston Busker Fest
+  * 155 signatures (+54)
 
 # Contact Information
 
 * email
-  * psfriedman@gmail.com
+  * psfriedman at gmail dot com
 * phone
   * +1 (312) 772-2107
 
