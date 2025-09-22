@@ -36,6 +36,8 @@ House of Representatives IL-09
   * 180 signatures (+25)
 * 2025-09-22
   * this is starting to get a bit more interesting - https://www.fec.gov/data/candidate/H6IL09384/
+  * 179 notarized signatures
+  * 195 signatures (+16)
 
 # Contact Information
 
