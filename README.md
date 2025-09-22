@@ -33,7 +33,9 @@ House of Representatives IL-09
   * Evanston Busker Fest
   * 155 signatures (+54)
 * 2025-09-21
-  * 180 signatures (+25) 
+  * 180 signatures (+25)
+* 2025-09-22
+  * this is starting to get a bit more interesting - https://www.fec.gov/data/candidate/H6IL09384/
 
 # Contact Information
 
