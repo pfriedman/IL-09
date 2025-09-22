@@ -32,6 +32,8 @@ House of Representatives IL-09
 * 2025-09-20
   * Evanston Busker Fest
   * 155 signatures (+54)
+* 2025-09-21
+  * 180 signatures (+25) 
 
 # Contact Information
 
