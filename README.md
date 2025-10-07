@@ -44,6 +44,8 @@ House of Representatives IL-09
   * received Financial Disclosure Requirements from the Committee on Ethics   
 * 2025-09-29
   * 281 signatures (+59) all notarized  
+* 2025-10-06
+  * 396 notarized signatures (+115)
 
 # Contact Information
 
