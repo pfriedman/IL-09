@@ -46,6 +46,8 @@ House of Representatives IL-09
   * 281 signatures (+59) all notarized  
 * 2025-10-06
   * 396 notarized signatures (+115)
+* 2025-10-17
+  * 505 notarized signatures (+109)
 
 # Contact Information
 
