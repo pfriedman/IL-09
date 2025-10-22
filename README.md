@@ -52,7 +52,7 @@ House of Representatives IL-09
 # Contact Information
 
 * email
-  * psfriedman at gmail dot com
+  * psf-il-09 at pm dot me
 * phone
   * +1 (312) 772-2107
 

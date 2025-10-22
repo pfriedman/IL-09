@@ -27,3 +27,6 @@
 * Born in the USA (Bruce Springsteen)
   * https://www.youtube.com/watch?v=9YNufvgPP20
   * https://genius.com/Bruce-springsteen-born-in-the-usa-lyrics
+
+* America (Leonard Bernstein)
+  * https://www.youtube.com/watch?v=TqOFi6c2Dv8
