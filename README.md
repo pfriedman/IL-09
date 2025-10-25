@@ -48,6 +48,10 @@ House of Representatives IL-09
   * 396 notarized signatures (+115)
 * 2025-10-17
   * 505 notarized signatures (+109)
+* 2025-10-24
+  * 550 notarized signatures (+45) [3]
+
+
 
 # Contact Information
 
@@ -60,3 +64,5 @@ House of Representatives IL-09
 [1] EIN: 39-4319221 (a.k.a. FEC Candidate Identification Number)
 
 [2] FEC Filing software is Windows only ;-> I only have access to *NIX based Operating Systems
+
+[3] 540 Signatures are needed - I have that many and a few more + a week to go 
