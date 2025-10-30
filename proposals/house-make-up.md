@@ -6,8 +6,6 @@
 
 ## Term Limits
 
-#### Congress 
-
 ### Senate
 
 No person shall be elected to the office of Senator of a particular State more than thrice, and no person who has held the office of Senator, or acted as Sentor, for more than three years of a term to which some other person was elected President shall be elected to the office of Sentor more than twice. But this Article shall not apply to any person holding the office of Sentor when this Article was proposed by Congress, and shall not prevent any person who may be holding the office of Sentor, or acting as Sentor, during the term within which this Article becomes operative from holding the office of Sentor or acting as Sentor during the remainder of such term.
