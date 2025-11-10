@@ -50,6 +50,9 @@ House of Representatives IL-09
   * 505 notarized signatures (+109)
 * 2025-10-24
   * 550 notarized signatures (+45) [3]
+* 2025-11-03
+  * 655 notarized signatures (+105)
+  * Submitted Statement of Candidacy, Nominating Petitions, and Waiver of Service Filed to State of Illinois State Board of Elections [4] 
 
 
 
@@ -66,3 +69,5 @@ House of Representatives IL-09
 [2] FEC Filing software is Windows only ;-> I only have access to *NIX based Operating Systems
 
 [3] 540 Signatures are needed - I have that many and a few more + a week to go 
+
+[4] https://www.elections.il.gov/ElectionOperations/CandidateDetailEO.aspx?CandidateID=IgcDkP%2fDQqzK7FOiG%2bJ63Q%3d%3d&ElectionID=Z2J%2fvYpKX8w%3d
