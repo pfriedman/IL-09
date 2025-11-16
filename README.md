@@ -37,9 +37,9 @@ I hope to win your vote.
 
 [1] https://www.linkedin.com/in/psfriedman/
 
-[2] You can often find me at local open mics like Wednesday's at Flaco's Tacos or the last Monday of the month at Sketchbook Brewing in Evanston
+[2] You can often find me at local open mics like Wednesdays at Flaco's Tacos or the last Monday of the month at Sketchbook Brewing in Evanston
 
-[3] My friends recently said that I often talk about food and music. Unsurprisingly I volunteer for farmers at the local markets and places like the Old Town School of Folk Music or Merlefest.
+[3] My friends recently said that I often talk about food and music. Unsurprisingly, I volunteer for farmers at the local markets and places like the Old Town School of Folk Music or Merlefest.
 
 [4] https://www.google.com/maps/place/Illinois's+9th+Congressional+District,+IL/@42.1179813,-88.1580342,11z/data=!3m1!4b1!4m6!3m5!1s0x880fcecd4b9e4075:0x51fe97f66e3e7d48!8m2!3d42.0768723!4d-87.7960067!16zL20vMGgyOWN0?entry=ttu&g_ep=EgoyMDI1MTExMS4wIKXMDSoASAFQAw%3D%3D
 
