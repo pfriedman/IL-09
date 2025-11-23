@@ -30,3 +30,10 @@
 
 * America (Leonard Bernstein)
   * https://www.youtube.com/watch?v=TqOFi6c2Dv8
+  * https://genius.com/Rita-moreno-george-chakiris-and-west-side-story-chorus-america-lyrics
+  
+* American Tune (Paul Simon)
+  * https://www.youtube.com/watch?v=AE3kKUEY5WU
+  * https://genius.com/Paul-simon-american-tune-lyrics
+  
+
