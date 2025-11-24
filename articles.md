@@ -15,3 +15,5 @@
 * The Real Lesson of the Shutdown: We Need Term Limits
   * Ron DeSantis and David Trone
   * https://www.nytimes.com/2025/10/22/opinion/desantis-trone-term-limits.html
+* The American Compass Podcast
+  * https://www.commonplace.org/s/the-american-compass-podcast
