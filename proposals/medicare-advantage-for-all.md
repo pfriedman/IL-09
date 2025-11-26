@@ -11,8 +11,11 @@ Let's agree with Mr. Krugman's assessment that for the United States "[t]he vast
 
 Mr. Friedman (no relation) argued for a free market - the market will supply the demands of the consumer. 
 
-If the United States of America is already in the insurance business, I see no reason that it not provide a product for which it's consumers demand. Riffing off of Bernie Sanders "Medicare for All" and knowing that Medicare Part C (a.k.a. Medicare Advantage) is a privatized aspect of Medicare, I am proposing "Medicare Advantage for All" - a free-market formula [2] that addresses a number of the issues with the Affordable Care Act (ACA) (a.k.a. Obamacare) without resorting to a Single Payer System (a.k.a. Medicare for All).
+### Proposal
 
+If the United States of America is already in the insurance business, I see no reason that it not provide a product for which it's consumers demand. Riffing off of Bernie Sanders "Medicare for All" and knowing that Medicare Part C (a.k.a. Medicare Advantage) is associated with Medicare but can be argued is not a government entity, I am proposing "Medicare Advantage for All" - a free-market formula [2] that addresses a number of the issues with the Affordable Care Act (ACA) (a.k.a. Obamacare) without resorting to a Single Payer System (a.k.a. Medicare for All).
+
+---
 
 [1] https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/
 
