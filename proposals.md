@@ -1,9 +1,9 @@
 # Proposals
 
-* [13th Amendment](abolish-slavery.md)
-* [Marijuana](cannabis.md)
-* [Constitutional Amendments](constitutional-amendments.md)
-* [Foundational Changes](house-make-up.md)
-* [Healthcare](medicare-advantage-for-all.md)
-* [Role of the House of Representatives](power-of-the-purse.md)
-* [Electricity](tesla.md)
+* [13th Amendment](proposals/abolish-slavery)
+* [Marijuana](proposals/cannabis)
+* [Constitutional Amendments](proposals/constitutional-amendments)
+* [Foundational Changes](proposals/house-make-up)
+* [Healthcare](proposals/medicare-advantage-for-all)
+* [Role of the House of Representatives](proposals/power-of-the-purse)
+* [Electricity](proposals/tesla)

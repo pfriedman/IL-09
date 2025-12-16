@@ -1,3 +1,3 @@
 # Campaigning
 
-* [diary](diary.md)
+* [diary](campaigning/diary)
