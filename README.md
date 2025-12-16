@@ -2,8 +2,6 @@
 
 ## Who?
 
-### Paul Friedman
-
 * Father
 * [American Worker](https://www.linkedin.com/in/psfriedman/)
 * Proud Midwesterner 
