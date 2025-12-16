@@ -1,0 +1,3 @@
+# Campaigning
+
+* [diary](diary.md)
