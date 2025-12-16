@@ -17,6 +17,6 @@ If the United States of America is already in the insurance business, I see no r
 
 ---
 
-[1] https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/
+[1] [https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/](https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/)
 
 [2] Yes, we can debate the aspects to which this is a "free-market formula" vs. a socialized proposal - in fact I think we must

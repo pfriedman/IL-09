@@ -6,4 +6,4 @@ Amending a document and creating a history is one of the more basic aspects of w
 
 I propose that we put the Constitution under source control and re-assess our manner of making amendments to the Constitution.
 
-Oh, look, I already started on the project. https://github.com/pfriedman/United-States-Constitution
+Oh, look, I already started on the project. [https://github.com/pfriedman/United-States-Constitution](https://github.com/pfriedman/United-States-Constitution)
