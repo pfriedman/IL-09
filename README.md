@@ -1,4 +1,4 @@
-# PSF IL-09
+# Paul Friedman - IL-09
 
 ## Who?
 
@@ -34,6 +34,10 @@ I hope to win your vote.
 * phone
   * +1 (312) 772-2107
 
+# Federal Election Commission
+
+* [Candidate](https://www.fec.gov/data/candidate/H6IL09384/)
+* [Committee](https://www.fec.gov/data/committee/C00927160/?cycle=2026)
 
 # Subdirectories
 
