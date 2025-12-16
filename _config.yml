@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Paul Friedman - IL-09
+description: Candidate for Representative in Congress for Illinois Ninth (9th) District

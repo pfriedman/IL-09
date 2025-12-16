@@ -36,4 +36,6 @@
   * https://www.youtube.com/watch?v=AE3kKUEY5WU
   * https://genius.com/Paul-simon-american-tune-lyrics
   
-
+* Ball of Confusion (Neville Brothers)
+  * https://www.youtube.com/watch?v=iCZuoGYuAEQ
+  * https://genius.com/The-temptations-ball-of-confusion-thats-what-the-world-is-today-lyrics
