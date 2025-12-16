@@ -19,7 +19,9 @@ The [Ninth (9th) Congressional District](https://www.google.com/maps/place/Illin
 
 ## Why? 
 
-Congress is broken. [I believe that when you see something broken, it is your purpose to fix it](https://en.wikipedia.org/wiki/Tikkun_olam).
+Congress is broken. 
+
+[I believe that when you see something broken, it is your purpose to fix it](https://en.wikipedia.org/wiki/Tikkun_olam).
 
 I have had no desire to seek such a public position - much of my career has been talking to a computer - however I find myself moved to do something to correct what I see is wrong in government, especially in the "people's house", the House of Representatives.
 
