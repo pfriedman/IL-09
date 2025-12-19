@@ -1,6 +1,10 @@
-# Paul Friedman - IL-09
+# Paul Friedman for Congress 
+
+## Representative in Congress - Illinois Ninth (9th) District
 
 ## Who?
+
+#### Paul Friedman
 
 * Father
 * [American Worker](https://www.linkedin.com/in/psfriedman/)
