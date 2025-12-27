@@ -1,10 +1,6 @@
-# House Make Up
+# Term Limits
 
-## Gerrymandering and Term Limits
-
-### Proposed Amendments
-
-## Term Limits
+## Proposed Amendments
 
 ### Senate
 
@@ -29,12 +25,4 @@ This article shall be inoperative unless it shall have been ratified as an amend
 
 TODO - research pro/cons for Supreme Court terms limits - does the freedom of thought that comes from life term outweigh any benefit of consistent change?
 
-## Gerrymandering
-
-A proposed constitutional amendment to establish a commission of citizens with exclusive authority to adopt district boundaries for the United States Congressional Districts for all States for the United States House of Representatives every 10 years after the number of Congressional Districts are decided by the United States Census. [2]
-
-
-
 [1] Text comes from 22nd Amendment modified in context
-
-[2] https://sfa.senate.michigan.gov/Publications/BallotProps/Proposal18-2.pdf
