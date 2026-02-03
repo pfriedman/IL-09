@@ -38,6 +38,15 @@ I hope to win your vote.
 * phone
   * +1 (312) 772-2107
 
+# Find me online
+
+* Instagram
+  * [https://www.instagram.com/psf_il_09/](https://www.instagram.com/psf_il_09/)
+  
+* Substack 
+  * [https://psfriedman.substack.com/](https://psfriedman.substack.com/)
+  
+
 # Federal Election Commission
 
 * [Candidate](https://www.fec.gov/data/candidate/H6IL09384/)

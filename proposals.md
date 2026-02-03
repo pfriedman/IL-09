@@ -1,10 +1,12 @@
 # Proposals
 
-* [13th Amendment](proposals/abolish-slavery)
+* [Role of the House of Representatives](proposals/power-of-the-purse)
+* [Healthcare](proposals/medicare-advantage-for-all)
+* [Electricity](proposals/tesla)
 * [Marijuana](proposals/cannabis)
+
 * [Constitutional Amendments](proposals/constitutional-amendments)
+* [13th Amendment](proposals/abolish-slavery)
 * [Term Limits](proposals/term-limits)
 * [Gerrymandering](proposals/gerrymandering)
-* [Healthcare](proposals/medicare-advantage-for-all)
-* [Role of the House of Representatives](proposals/power-of-the-purse)
-* [Electricity](proposals/tesla)
+
