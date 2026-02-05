@@ -1,4 +1,6 @@
-# Medicare Advantage for All
+# Medicare for All vs Medicare Advantage for All
+
+Why not both?
 
 ### Premise
 
@@ -13,10 +15,12 @@ Mr. Friedman (no relation) argued for a free market - the market will supply the
 
 ### Proposal
 
-If the United States of America is already in the insurance business, I see no reason that it not provide a product for which it's consumers demand. Riffing off of Bernie Sanders "Medicare for All" and knowing that Medicare Part C (a.k.a. Medicare Advantage) is associated with Medicare but can be argued is not a government entity, I am proposing "Medicare Advantage for All" - a free-market formula [2] that addresses a number of the issues with the Affordable Care Act (ACA) (a.k.a. Obamacare) without resorting to a Single Payer System (a.k.a. Medicare for All).
+Let's replace the Affordable Care Act (ACA) with something that could work. Bernie Sanders has cried for years that the United States should have *Medicare for All*. Conservative thinkers recently have riffed on that idea and proposed *Medicare Advantage for All*. A natural liberal/conservative split between a public system and a private system. 
+
+In true competitive manner, let's try both. This would require transitioning to a universal system where all citizens are covered by Medicare, with options to choose between traditional government-run, single-payer insurance and private Medicare Advantage plans. The ACA fell short in its ability to provide near universal coverage at an affordable rate. It's past time to try something different.
+
 
 ---
 
 [1] [https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/](https://archive.nytimes.com/krugman.blogs.nytimes.com/2011/10/22/an-insurance-company-with-an-army-2/)
 
-[2] Yes, we can debate the aspects to which this is a "free-market formula" vs. a socialized proposal - in fact I think we must
