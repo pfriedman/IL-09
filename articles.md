@@ -1,5 +1,7 @@
 # Links to Resources
 
+Articles and resources that have inspired me and lead me to start a campaign. 
+
 * Why I am not a Liberal
   * David Brooks
   * [https://www.nytimes.com/2025/09/05/opinion/liberal-conservative-left-right-politics.html](https://www.nytimes.com/2025/09/05/opinion/liberal-conservative-left-right-politics.html?unlocked_article_code=1.kU8.uwPP.-aR0Udi5VKHs&smid=url-share)

@@ -31,6 +31,8 @@ I have had no desire to seek such a public position - much of my career has been
 
 I hope to win your vote.
 
+[Here are my responses to various questions in this race](questionnaires.md)
+
 # Contact Information
 
 * email
@@ -54,6 +56,7 @@ I hope to win your vote.
 
 # Subdirectories
 
+* [questionnaires](questionnaires.md)
 * [proposals](proposals.md)
 * [campaigning](campaigning.md)
 * [articles](articles.md)

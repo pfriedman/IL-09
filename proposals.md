@@ -1,5 +1,7 @@
 # Proposals
 
+Some early thoughts upon entering the race. 
+
 * [Role of the House of Representatives](proposals/power-of-the-purse)
 * [Healthcare](proposals/medicare-advantage-for-all)
 * [Electricity](proposals/tesla)
