@@ -1,4 +1,4 @@
-# Links to Resources
+## Links to Resources
 
 Articles and resources that have inspired me and lead me to start a campaign. 
 

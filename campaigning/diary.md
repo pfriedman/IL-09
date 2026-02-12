@@ -1,6 +1,6 @@
 # Paul Friedman
 
-# IL-09
+## IL-09
 House of Representatives IL-09
 
 * 2025-09-08
@@ -58,7 +58,7 @@ House of Representatives IL-09
   * Waiting until Jan 8 for the certification, but afaict I am on the ballot!!!!
 
 
-# Contact Information
+## Contact Information
 
 * email
   * psf-il-09 at pm dot me

@@ -15,7 +15,7 @@ Congress shall have power to enforce this article by appropriate legislation.
 `1865`
 
 
-# Proposal
+## Proposal
 
 I propose to amend this language to the following:
 
@@ -31,7 +31,7 @@ Neither slavery nor involuntary servitude shall exist within the United States o
 Congress shall have power to enforce this article by appropriate legislation.
 
 
-# Changelog
+## Changelog
 
 * remove the following phrase from the Constitution: `, except as a punishment for crime whereof the party shall have been duly convicted,`
 * add "without exception" for emphasis of change

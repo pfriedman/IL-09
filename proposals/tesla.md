@@ -2,9 +2,9 @@
 
 ### Ideas
 
-* All Data Centers need to supply their own electrical source - i.e. build nuclear plant, solar/wind farm, incinerator, &c.
+* All Data Centers need to supply their own electrical source - i.e. build nuclear plant, solar/wind farm, incinerator, &c. - and incorporate them with the grid.
 
-* Centers using a greater % of electricity than the general populace must pay a rate x% above the residential or commercial building
+* Centers using a greater % of electricity than the general populace must pay a rate x% above the residential or commercial buildings in the area.
 
 * Support closed-loop systems to reduce water loss through evaporation and add incentives to re-use that heated water to heat nearby homes and other productive radiant heat uses.
 

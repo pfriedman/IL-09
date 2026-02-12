@@ -2,7 +2,7 @@
 
 ## Representative in Congress - Illinois Ninth (9th) District
 
-## Who?
+### Who?
 
 #### Paul Friedman
 
@@ -13,15 +13,15 @@
 * Volunteer
 * [Software Writer](https://www.linkedin.com/in/psfriedman/)
 
-## What?
+### What?
 
 Representative in Congress
 
-## Where? 
+### Where? 
 
 The [Ninth (9th) Congressional District](https://www.google.com/maps/place/Illinois's+9th+Congressional+District,+IL/@42.1179813,-88.1580342,11z/data=!3m1!4b1!4m6!3m5!1s0x880fcecd4b9e4075:0x51fe97f66e3e7d48!8m2!3d42.0768723!4d-87.7960067!16zL20vMGgyOWN0?entry=ttu&g_ep=EgoyMDI1MTExMS4wIKXMDSoASAFQAw%3D%3D) in [Illinois](https://www.google.com/maps/d/u/1/viewer?mid=1qfnRiuOZ3yok6WGvBHZ9P6u3EMy_LwRv&ll=42.11806388762322%2C-87.9932285&z=11)
 
-## Why? 
+### Why? 
 
 Congress is broken. 
 
@@ -33,7 +33,7 @@ I hope to win your vote.
 
 [Here are my responses to various questions in this race.](questionnaires.md)
 
-# Steps to Fix Congress
+## Steps to Fix Congress
 
 Four simple proposals to restructure Congress to be more responsive to voter concerns than to Party or Money. 
 
@@ -42,14 +42,14 @@ Four simple proposals to restructure Congress to be more responsive to voter con
 3. [Establish Age Restrictions](https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html)
 4. [Restrict Campaign Spending](https://americanpromise.net)
 
-# Contact Information
+## Contact Information
 
 * email
   * psf-il-09 at pm dot me
 * phone
   * +1 (312) 772-2107
 
-# Find me online
+## Find me online
 
 * Instagram
   * [https://www.instagram.com/psf_il_09/](https://www.instagram.com/psf_il_09/)
@@ -58,12 +58,12 @@ Four simple proposals to restructure Congress to be more responsive to voter con
   * [https://psfriedman.substack.com/](https://psfriedman.substack.com/)
   
 
-# Federal Election Commission
+## Federal Election Commission
 
 * [Candidate](https://www.fec.gov/data/candidate/H6IL09384/)
 * [Committee](https://www.fec.gov/data/committee/C00927160/?cycle=2026)
 
-# Subdirectories
+## Subdirectories
 
 * [questionnaires](questionnaires.md)
 * [proposals](proposals.md)
