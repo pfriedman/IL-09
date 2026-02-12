@@ -9,8 +9,8 @@
 * Father
 * [American Worker](https://www.linkedin.com/in/psfriedman/)
 * Proud Midwesterner 
-* Folk Singer [1]
-* Volunteer [2]
+* Folk Singer
+* Volunteer
 * [Software Writer](https://www.linkedin.com/in/psfriedman/)
 
 ## What?
@@ -31,7 +31,16 @@ I have had no desire to seek such a public position - much of my career has been
 
 I hope to win your vote.
 
-[Here are my responses to various questions in this race](questionnaires.md)
+[Here are my responses to various questions in this race.](questionnaires.md)
+
+# Steps to Fix Congress
+
+Four simple proposals to restructure Congress to be more responsive to voter concerns than to Party or Money. 
+
+1. [Set Term Limits](https://termlimits.com)
+2. [End Gerrymandering](https://www.congress.gov/bill/118th-congress/senate-bill/3750/text)
+3. [Cap Representative Age](https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html)
+4. [Set reasonable spending limits in Campaigns](https://americanpromise.net)
 
 # Contact Information
 
@@ -61,9 +70,3 @@ I hope to win your vote.
 * [campaigning](campaigning.md)
 * [articles](articles.md)
 * [songs](campaign-songs.md)
-
-# Footnotes
-
-[1] You can often find me at local open mics like Wednesdays at [Flaco's Tacos - Granville](https://www.flacostacosonline.com) or the last Monday of the month at [Sketchbook Brewing in Evanston](https://www.sketchbookbrewing.com)
-
-[2] My friends recently said that I often talk about food and music. Unsurprisingly, I volunteer for farmers at the local markets and places like the [Old Town School of Folk Music](http://oldtownschool.org/) or [Merlefest](https://merlefest.org).
