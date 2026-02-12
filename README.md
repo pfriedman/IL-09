@@ -39,8 +39,8 @@ Four simple proposals to restructure Congress to be more responsive to voter con
 
 1. [Set Term Limits](https://termlimits.com)
 2. [End Gerrymandering](https://www.congress.gov/bill/118th-congress/senate-bill/3750/text)
-3. [Cap Representative Age](https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html)
-4. [Set reasonable spending limits in Campaigns](https://americanpromise.net)
+3. [Establish Age Restrictions](https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html)
+4. [Restrict Campaign Spending](https://americanpromise.net)
 
 # Contact Information
 
