@@ -35,7 +35,7 @@ I hope to win your vote.
 
 ## Steps to Fix Congress
 
-Four simple proposals to restructure Congress to be more responsive to voter concerns than to Party or Money. 
+Four active, common sense proposals to restructure Congress:
 
 1. [Set Term Limits](https://termlimits.com)
 2. [End Gerrymandering](https://www.congress.gov/bill/118th-congress/senate-bill/3750/text)
