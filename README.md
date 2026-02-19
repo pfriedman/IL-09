@@ -37,10 +37,10 @@ I hope to win your vote.
 
 Four active, common sense proposals to restructure Congress:
 
-1. [Set Term Limits](https://termlimits.com)
-2. [End Gerrymandering](https://www.congress.gov/bill/118th-congress/senate-bill/3750/text)
-3. [Establish Age Restrictions](https://www.nytimes.com/2026/01/21/us/politics/rahm-emanuel-age-limit-75.html)
-4. [Restrict Campaign Spending](https://americanpromise.net)
+1. [Set Term Limits](proposals/term-limits)
+2. [End Gerrymandering](proposals/gerrymandering)
+3. [Establish Age Restrictions](proposals/age-restrictions)
+4. [Restrict Campaign Spending](proposals/campaign-financing)
 
 ## Contact Information
 

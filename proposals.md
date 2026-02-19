@@ -11,4 +11,5 @@ Some early thoughts upon entering the race.
 * [13th Amendment](proposals/abolish-slavery)
 * [Term Limits](proposals/term-limits)
 * [Gerrymandering](proposals/gerrymandering)
-
+* [Age Restrictions](proposals/age-restrictions)
+* [Campaign Financing](proposals/campaign-financing)
