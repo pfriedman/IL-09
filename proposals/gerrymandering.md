@@ -2,7 +2,7 @@
 
 There is an [existing proposal in the Senate](https://www.congress.gov/bill/118th-congress/senate-bill/3750/text) regarding the congressional redistricting process. 
 
-The job for which I am applying - Representative in Congress for the Illinois Ninth (9th) Congressional District - is for one of the most diverse districts in the nation, and likely one of the most Gerrymandered. The [Gerrymandering Project out of Princeton](https://gerrymander.princeton.edu/redistricting-report-card/?planId=receAu6OJuYEkxKjG) grades Illinois an **_F_**. I believe that this extreme gerrymandering throughout the United States is simply un-American. 
+The job for which I am applying - Representative in Congress for the Illinois Ninth (9th) Congressional District - is for one of the most diverse districts in the nation, and one of the most Gerrymandered. The [Gerrymandering Project out of Princeton](https://gerrymander.princeton.edu/redistricting-report-card/?planId=receAu6OJuYEkxKjG) grades Illinois an **_F_**. I believe that this extreme gerrymandering throughout the United States is simply un-American. 
 
 Even though there is unlikely a one size fits all approach for each state, there are several measurable metrics we can use to which all independent commissions must meet to reasonably ensure fair Congressional Districts.
 
