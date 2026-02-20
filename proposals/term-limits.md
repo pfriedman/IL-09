@@ -2,7 +2,7 @@
 
 The following proposals are ideas I wrote before having been contacted by [U.S. Term Limits](https://termlimits.com) to sign their pledge. 
 
-We disagree on the set number of terms but I have seen in campaigning that this is a strong position, to limit the years a Senator or Representative can serve in that position. I have said on this campaign many times that the job for which I am applying - Representative in Congress - is a two-year gig for a reason. 
+We disagree on the set number of terms but I have seen in campaigning that Term Limits are very much desired, to limit the years a Senator or Representative can serve in that position. I have said on this campaign many times that the job for which I am applying - Representative in Congress - is a two-year gig for a reason. 
 
 ## Proposed Amendments
 
