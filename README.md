@@ -11,11 +11,11 @@
 * Proud Midwesterner 
 * Folk Singer
 * Volunteer
-* [Software Writer](https://www.linkedin.com/in/psfriedman/)
+* [Software Writer](https://github.com/pfriedman/)
 
 ### What?
 
-Representative in Congress
+Republican Candidate for Representative in Congress
 
 ### Where? 
 
