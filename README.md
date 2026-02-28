@@ -42,18 +42,14 @@ Four active, common sense proposals to restructure Congress:
 3. [Establish Age Restrictions](proposals/age-restrictions)
 4. [Restrict Campaign Spending](proposals/campaign-financing)
 
-## Contact Information
+## For More Information
 
 * email
   * psf-il-09 at pm dot me
+
 * phone
   * +1 (312) 772-2107
 
-## Find me online
-
-* Instagram
-  * [https://www.instagram.com/psf_il_09/](https://www.instagram.com/psf_il_09/)
-  
 * Substack 
   * [https://psfriedman.substack.com/](https://psfriedman.substack.com/)
   
